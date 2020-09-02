@@ -1,0 +1,6 @@
+/shelf/
+/workspace.xml
+.DS_Store
+.idea/
+*.*_old
+*.*_backup
